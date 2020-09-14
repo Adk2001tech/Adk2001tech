@@ -22,8 +22,7 @@
 [<img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/akhileshdkapse) 
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@akhileshkapse)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akhilesh-kapse-a8a606195/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/akhilesh.kapse/)
-[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/pr2tik1) 
+[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/akhilesh.kapse/) 
 [![Visits Badge](https://badges.pufler.dev/visits/Adk2001tech/Adk2001tech?style=for-the-badge)](https://github.com/Adk2001tech/Adk2001tech)
 
 </p>
