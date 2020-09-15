@@ -2,7 +2,7 @@
 
 <hr>
 
-A 2nd year undergraduate student at **IIITDM Jabalpur**. A developer always interested and spirited about LEARNING Artificial Intelligence things. Looking for learing new stuffs and experience in the feild.
+A 2nd year undergraduate student at **IIITDM Jabalpur**. A developer always interested and spirited about LEARNING Artificial Intelligence things. Looking for learing new stuffs and opportunities to gain experience in the feild. 
 
 <!--
 **Adk2001tech/Adk2001tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
