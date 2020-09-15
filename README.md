@@ -1,7 +1,8 @@
 ### Hi there, I'm Akhilesh
+
 <hr>
 
-I am a developer who is passionate about stuff like deep learning and data science. . I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
+A 2nd year undergraduate student at **IIITDM Jabalpur**. A developer always interested and spirited about LEARNING Artificial Intelligence things. Looking for learing new stuffs and experience in the feild.
 
 <!--
 **Adk2001tech/Adk2001tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,3 +38,4 @@ I am a developer who is passionate about stuff like deep learning and data scien
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adk2001tech&hide=css,java">
 </p>
 </details>
+
