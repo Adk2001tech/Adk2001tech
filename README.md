@@ -1,19 +1,18 @@
-### Hello 👋
+### Hi there, I'm Akhilesh
 <hr>
+
+I am a developer who is passionate about stuff like deep learning and data science. . I am actively looking for opportunities in Data Science. Recently, I have just started with tech-blogging!
 
 <!--
 **Adk2001tech/Adk2001tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 
-- 👨🏽‍💻 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👨🏽‍💻 Currently working, learning and growing my skillset and practical theory knowledge in Machine learning, computer vision & Data science Areas.  
+- 👯 I’m looking to collaborate on **Artificial Intelligence Research Projects**
+- 🤔 Happy to contribute in opensource development projects.
+- 📫 Contact me: kapseadk@gmail.com       
+- ⚡ Fun fact: Love to read MCU comics and listen Music
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
