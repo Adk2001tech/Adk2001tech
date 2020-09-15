@@ -10,7 +10,7 @@ I am a developer who is passionate about stuff like deep learning and data scien
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset and practical theory knowledge in Machine learning, computer vision & Data science feilds.  
 - 👯 I’m looking to collaborate on **Artificial Intelligence Research Projects**
-- 🤔 Happy to contribute in opensource development projects.
+- 🥅 GOALS: Contribute in opensource development projects.
 - 📫 Mail id: kapseadk@gmail.com       
 - ⚡ Fun fact: Love to read MCU comics and listen Music
 
