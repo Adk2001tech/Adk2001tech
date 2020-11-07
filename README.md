@@ -11,9 +11,9 @@ A 2nd year undergraduate student🎓 at **IIITDM Jabalpur**. A developer always 
 
 - 👨🏽‍💻 Currently working, learning and growing my skillset and practical theory knowledge in Machine learning, computer vision & Data science feilds.  
 - 👯 I’m looking to collaborate on **Artificial Intelligence Research Projects**
-- 🥅 GOALS: Contribute in opensource development projects.
+- 🥅 GOALS: `Sky is not the limit`.
 - 📫 Mail id: kapseadk@gmail.com       
-- ⚡ Fun fact: Love to read MCU comics and listen Music
+- ⚡ other: Love to read MCU comics and listen Music
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
