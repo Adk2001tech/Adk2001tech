@@ -13,7 +13,7 @@ A 2nd year undergraduate student🎓 at **IIITDM Jabalpur**. A developer always 
 - 👯 I’m looking to collaborate on **Artificial Intelligence Research Projects**
 - 🥅 GOALS: `Sky is not the limit`.
 - 📫 Mail id: kapseadk@gmail.com       
-- ⚡ other: Love to read MCU comics and listen Music
+- ⚡ Love to read MCU comics, listen Music, photo editing 
 
 <details open>
 <summary>🤝 <b>To connect with me</b></summary>
