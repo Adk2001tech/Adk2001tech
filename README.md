@@ -9,7 +9,7 @@ A 2nd year undergraduate student🎓 at **IIITDM Jabalpur**. A developer always 
 -->
 
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset and practical theory knowledge in Machine learning, computer vision & Data science feilds.  
+- 👨🏽‍💻 Currently working, learning and growing my skillset and practical knowledge in Machine learning, computer vision & Data science.  
 - 👯 I’m looking to collaborate on **Artificial Intelligence Research Projects**
 - 🥅 GOALS: `Sky is not the limit`.
 - 📫 Mail id: kapseadk@gmail.com       
