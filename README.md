@@ -1,41 +1,22 @@
-### Hi there♾️, I'm Akhilesh
+**Artificial intelligence is an ocean of boundless innovations and possibilities.** I'm a 2nd-year undergraduate student🎓 at **IIITDM JABALPUR** who adores AI and want to embark on my carrier leveraging its capabilities on top of the limited human brain capacity to solve more complex problems like health and food crises, technological securities, and natural hazards on a fly.
 
-<hr>
+A developer always interested and spirited about kaggling, learning Artificial Intelligence things. Highly passionate about analyzing and solving Machine, Deep learning problems with insightful results.  Inclined more towards **Computer-Vision**, **Applications of Deep Learning**, **Adversarial Machine Learning** 🖖.
 
-A 2nd year undergraduate student🎓 at **IIITDM Jabalpur**. A developer always interested and spirited about LEARNING Artificial Intelligence things. Looking for learing new stuffs and opportunities to gain experience in the feild. 
-
-<!--
-**Adk2001tech/Adk2001tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+The Desire to pursuing my interests, study, and examine new things in the domain, honing my skillset motivates me to become a **Researcher** in the future. Also, Looking for discovering new pieces of stuff and opportunities to gain experience in the field, widen my perspective, and go deeper into the ocean 
+🌻.
 
 
-- 👨🏽‍💻 Currently working, learning and growing my skillset and practical knowledge in Machine learning, computer vision & Data science.  
-- 👯 I’m looking to collaborate on **Artificial Intelligence Research Projects**
-- 🥅 GOALS: `Sky is not the limit`.
-- 📫 Mail id: kapseadk@gmail.com       
-- ⚡ Love to read MCU comics, listen Music, photo editing 
+<div class="row">
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/64481847/108072472-f3073400-708c-11eb-9126-0086998d7f2f.jpg" width="342" >
+  </div>
+  <div class="column">
+    <img src="https://user-images.githubusercontent.com/64481847/108072926-804a8880-708d-11eb-924c-24022734f9bf.jpeg" width="200">
+  </div>
+<div class="column">
+    <img src="https://user-images.githubusercontent.com/64481847/108073403-ffd85780-708d-11eb-99e0-8a532defdaf0.jpg" width="200">
+  </div>
+</div>
 
-<details open>
-<summary>🤝 <b>To connect with me</b></summary>
- <p align = "center">
 
-[<img src="https://img.shields.io/badge/kaggle-%231DA1F2.svg?&style=for-the-badge&logo=kaggle&logoColor=white" />](https://www.kaggle.com/akhileshdkapse) 
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@akhileshkapse)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/akhilesh-kapse-a8a606195/)
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/akhilesh.kapse/) 
-[![Visits Badge](https://badges.pufler.dev/visits/Adk2001tech/Adk2001tech?style=for-the-badge)](https://github.com/Adk2001tech/Adk2001tech)
-
-</p>
-</details>
-<hr>
-
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
- 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Adk2001tech&show_icons=true&theme=merko&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Adk2001tech&hide=css,java">
-</p>
-</details>
-
+Apart from technical, I'm a big MCU fan. Also, I enjoy playing Lawn-Tennis🎾,  Traveling🌇, Photo Editing📷,  listening Music🎶
