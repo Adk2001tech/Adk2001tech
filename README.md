@@ -1,4 +1,4 @@
-**Artificial intelligence is an ocean of boundless innovations and possibilities.** I'm a 2nd-year undergraduate student🎓 at **IIITDM JABALPUR** who adores AI and want to embark on my carrier leveraging its capabilities on top of the limited human brain capacity to solve more complex problems like health and food crises, technological securities, and natural hazards on a fly.
+**Artificial intelligence is an ocean of boundless innovations and possibilities.** I'm a pre-final year undergraduate student🎓 at **IIITDM JABALPUR** who adores AI and want to embark on my carrier leveraging its capabilities on top of the limited human brain capacity to solve more complex problems like health and food crises, technological securities, and natural hazards on a fly.
 
 A developer always interested and spirited about kaggling, learning Artificial Intelligence things. Highly passionate about analyzing and solving Machine, Deep learning problems with insightful results.  Inclined more towards **Computer-Vision**, **Applications of Deep Learning**, **Adversarial Machine Learning** 🖖.
 
