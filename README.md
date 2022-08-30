@@ -2,7 +2,7 @@
 
 A developer always interested and spirited about kaggling, learning Artificial Intelligence things. Highly passionate about analyzing and solving Machine, Deep learning problems with insightful results.  Inclined more towards **Computer-Vision**, **Applications of Deep Learning**, **Adversarial Machine Learning** 🖖.
 
-The Desire to pursuing my interests, study, and examine new things in the domain, honing my skillset motivates me to become a **Researcher** in the future. Also, Looking for discovering new pieces of stuff and opportunities to gain experience in the field, widen my perspective, and go deeper into the ocean 
+The Desire to pursuing my interests, study, and examine new things in the domain, honing my skillset motivates me to become a **ML Developer and Researcher** in the future. Also, Looking for discovering new pieces of stuff and opportunities to gain experience in the field, widen my perspective, and go deeper into the ocean 
 🌻.
 
 
